@@ -13,7 +13,7 @@ Here, the user can choose the size board they want, and the number of pieces nee
 The program also writes the entire board to an output file every time the cursor is pressed, which you can view after the game is over.
 
 ## Setup
-* After opening the project, enter the number of rows, the number of columns, and the name of the output file you would like to write to.
+* After opening the project, enter the number of rows, the number of columns, and the name of the output file you would like to write to as command line arguments.
 * To move the token left, press 'a', 'j', or the left arrow key.
 * To move the token right, press 's', 'k', or the right arrow key.
 * To drop the token, press the spacebar or enter key.
